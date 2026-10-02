@@ -180,6 +180,22 @@ FoodFlow/
     └── README.md
 ```
 
+## Aplicação Mobile
+
+O FoodFlow possui uma interface mobile desenvolvida como protótipo visual de front-end, com o objetivo de representar a experiência de navegação do usuário no sistema.
+
+As telas desenvolvidas contemplam a apresentação do cardápio, produtos, criação e acompanhamento visual de pedidos e demais elementos da interface planejada para o aplicativo.
+
+Nesta versão do projeto, o Mobile corresponde à camada visual da aplicação e não possui integração funcional com a API, banco de dados ou sistema de mensageria.
+
+### Escopo atual
+- Interface mobile em formato de protótipo;
+- Telas de navegação e apresentação das funcionalidades;
+- Organização visual dos componentes;
+- Fluxo de navegação entre as telas;
+- Sem integração funcional com Back End nesta versão.
+
+  
 ## Finalidade
 
 Este projeto foi desenvolvido para fins acadêmicos como parte do Projeto Tech 360 — Trabalho Multidisciplinar Bimestral.
