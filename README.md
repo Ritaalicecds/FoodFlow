@@ -22,7 +22,6 @@ Desenvolver e documentar uma solução digital para organizar o processo de pedi
 * Isadora Nascimento Queiroz Silva
 * Luigi Pereira Silva de Almeida
 * Giulia Rodrigues Lutfi
-* Cauã Alonso Cinquini
 
 ## Funcionalidades previstas
 
@@ -49,7 +48,6 @@ Desenvolver e documentar uma solução digital para organizar o processo de pedi
 
 * API REST
 * Arquitetura de Back End planejada
-* [Framework escolhido pelo grupo]
 
 ### Interface
 
