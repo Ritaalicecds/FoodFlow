@@ -4,6 +4,13 @@ Registro das principais alterações realizadas no projeto FoodFlow.
 
 ## [1.0.0] - 2026-10-02
 
+## [1.0.0] - 2026-10-01
+
+### Documentação
+- Atualização da documentação do projeto FoodFlow.
+- Especificação do escopo da aplicação Mobile como front-end/protótipo visual.
+- Organização das informações técnicas do projeto.
+  
 ### Adicionado
 
 * Estrutura inicial do repositório
